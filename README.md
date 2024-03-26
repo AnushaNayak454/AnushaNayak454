@@ -10,4 +10,4 @@ I'm a Computer Science Engineering student at VCET Puttur. I'm passionate about 
 ### 🤝Let's Connect
 I'm always open to connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities. Feel free to reach out to me via:
 - 📧 Email: [anushanayak454@gmail.com]
-- 🔗 [LinkedIn](http://www.linkedin.com/in/anusha-s-6258542b0)
+- 🔗 LinkedIn:[http://www.linkedin.com/in/anusha-s-6258542b0]
