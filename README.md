@@ -12,10 +12,17 @@ I'm a Computer Science Engineering student at VCET Puttur. I'm passionate about 
 • Mastering programming languages like Python and JavaScript
 • Diving into full-stack development
 
+### Skills
+• Languages: JavaScript, Python, Java, C/C++
+• Frontend: HTML/CSS, React, Angular
+• Backend: Node.js, Express, Django
+• Databases: MySQL, MongoDB
+• Tools: Git, Docker, VS Code
 
 ### 🤝Let's Connect
-# ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I'm always open to connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities.
 Feel free to reach out to me via:
 - 📧 Email: [anushanayak454@gmail.com]
 - 🔗 LinkedIn:[http://www.linkedin.com/in/anusha-s-6258542b0]
+
+
