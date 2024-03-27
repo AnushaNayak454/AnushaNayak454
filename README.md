@@ -4,7 +4,7 @@ I'm a Computer Science Engineering student at VCET Puttur. I'm passionate about 
 
 
 ## 🔭 What I'm Currently Working On
-- Exploring various cybersecurity topics and concepts
+- Exploring various webdevelopment topics and concepts
 - Improving my coding skills by taking on various projects and challenges
 
 
