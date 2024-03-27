@@ -14,10 +14,7 @@ I'm a Computer Science Engineering student at VCET Puttur. I'm passionate about 
 
 ## 🛠️ Skills
 - Languages: JavaScript, Python, Java, C/C++
-- Frontend: HTML/CSS, React, Angular
-- Backend: Node.js, Express, Django
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, VS Code
+- Tools: Git, VS Code
 
 ## 🤝Let's Connect
 I'm always open to connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities.
